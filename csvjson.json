@@ -1,0 +1,677 @@
+[
+  {
+    "DIST_ID": 1,
+    "DISTRICT": "Taplejung",
+    "ZONE": "Mechi",
+    "ZONE_CODE": "1/1/0524",
+    "Total Household": 26509,
+    "Total Population": 127461,
+    "Deaths": 1
+  },
+  {
+    "DIST_ID": 2,
+    "DISTRICT": "Panchthar",
+    "ZONE": "Mechi",
+    "ZONE_CODE": "1/1/0524",
+    "Total Household": 41196,
+    "Total Population": 191817,
+    "Deaths": 0
+  },
+  {
+    "DIST_ID": 3,
+    "DISTRICT": "Ilam",
+    "ZONE": "Mechi",
+    "ZONE_CODE": "1/1/0524",
+    "Total Household": 65502,
+    "Total Population": 290254,
+    "Deaths": 0
+  },
+  {
+    "DIST_ID": 4,
+    "DISTRICT": "Jhapa",
+    "ZONE": "Mechi",
+    "ZONE_CODE": "1/1/0524",
+    "Total Household": 184552,
+    "Total Population": 812650,
+    "Deaths": 0
+  },
+  {
+    "DIST_ID": 5,
+    "DISTRICT": "Morang",
+    "ZONE": "Koshi",
+    "ZONE_CODE": "1/2/0524",
+    "Total Household": 213997,
+    "Total Population": 965370,
+    "Deaths": 2
+  },
+  {
+    "DIST_ID": 6,
+    "DISTRICT": "Sunsari",
+    "ZONE": "Koshi",
+    "ZONE_CODE": "1/2/0524",
+    "Total Household": 162407,
+    "Total Population": 763487,
+    "Deaths": 9
+  },
+  {
+    "DIST_ID": 7,
+    "DISTRICT": "Dhankuta",
+    "ZONE": "Koshi",
+    "ZONE_CODE": "1/2/0524",
+    "Total Household": 37637,
+    "Total Population": 163412,
+    "Deaths": 0
+  },
+  {
+    "DIST_ID": 8,
+    "DISTRICT": "Terhathum",
+    "ZONE": "Koshi",
+    "ZONE_CODE": "1/2/0524",
+    "Total Household": 22094,
+    "Total Population": 101577,
+    "Deaths": 1
+  },
+  {
+    "DIST_ID": 9,
+    "DISTRICT": "Sankhuwasabha",
+    "ZONE": "Koshi",
+    "ZONE_CODE": "1/2/0524",
+    "Total Household": 34624,
+    "Total Population": 158742,
+    "Deaths": 0
+  },
+  {
+    "DIST_ID": 10,
+    "DISTRICT": "Bhojpur",
+    "ZONE": "Koshi",
+    "ZONE_CODE": "1/2/0524",
+    "Total Household": 39419,
+    "Total Population": 182459,
+    "Deaths": 2
+  },
+  {
+    "DIST_ID": 11,
+    "DISTRICT": "Solukhumbu",
+    "ZONE": "Sagarmatha",
+    "ZONE_CODE": "1/3/0524",
+    "Total Household": 23785,
+    "Total Population": 105886,
+    "Deaths": 22
+  },
+  {
+    "DIST_ID": 13,
+    "DISTRICT": "Khotang",
+    "ZONE": "Sagarmatha",
+    "ZONE_CODE": "1/3/0524",
+    "Total Household": 42664,
+    "Total Population": 206312,
+    "Deaths": 0
+  },
+  {
+    "DIST_ID": 12,
+    "DISTRICT": "Okhaldhunga",
+    "ZONE": "Sagarmatha",
+    "ZONE_CODE": "1/3/0524",
+    "Total Household": 32502,
+    "Total Population": 147984,
+    "Deaths": 19
+  },
+  {
+    "DIST_ID": 14,
+    "DISTRICT": "Udayapur",
+    "ZONE": "Sagarmatha",
+    "ZONE_CODE": "1/3/0524",
+    "Total Household": 66557,
+    "Total Population": 317532,
+    "Deaths": 1
+  },
+  {
+    "DIST_ID": 15,
+    "DISTRICT": "Saptari",
+    "ZONE": "Sagarmatha",
+    "ZONE_CODE": "1/3/0524",
+    "Total Household": 121098,
+    "Total Population": 639284,
+    "Deaths": 0
+  },
+  {
+    "DIST_ID": 16,
+    "DISTRICT": "Siraha",
+    "ZONE": "Sagarmatha",
+    "ZONE_CODE": "1/3/0524",
+    "Total Household": 177962,
+    "Total Population": 637328,
+    "Deaths": 0
+  },
+  {
+    "DIST_ID": 17,
+    "DISTRICT": "Dhanusha",
+    "ZONE": "Janakpur",
+    "ZONE_CODE": "2/4/0524",
+    "Total Household": 138249,
+    "Total Population": 754777,
+    "Deaths": 1
+  },
+  {
+    "DIST_ID": 18,
+    "DISTRICT": "Mahottari",
+    "ZONE": "Janakpur",
+    "ZONE_CODE": "2/4/0524",
+    "Total Household": 111316,
+    "Total Population": 627580,
+    "Deaths": 3
+  },
+  {
+    "DIST_ID": 19,
+    "DISTRICT": "Sarlahi",
+    "ZONE": "Janakpur",
+    "ZONE_CODE": "2/4/0524",
+    "Total Household": 132844,
+    "Total Population": 769729,
+    "Deaths": 2
+  },
+  {
+    "DIST_ID": 20,
+    "DISTRICT": "Sindhuli",
+    "ZONE": "Janakpur",
+    "ZONE_CODE": "2/4/0524",
+    "Total Household": 57581,
+    "Total Population": 296192,
+    "Deaths": 14
+  },
+  {
+    "DIST_ID": 21,
+    "DISTRICT": "Ramechhap",
+    "ZONE": "Janakpur",
+    "ZONE_CODE": "2/4/0524",
+    "Total Household": 43910,
+    "Total Population": 202646,
+    "Deaths": 39
+  },
+  {
+    "DIST_ID": 22,
+    "DISTRICT": "Dolakha",
+    "ZONE": "Janakpur",
+    "ZONE_CODE": "2/4/0524",
+    "Total Household": 45688,
+    "Total Population": 186557,
+    "Deaths": 162
+  },
+  {
+    "DIST_ID": 23,
+    "DISTRICT": "Sindhupalchok",
+    "ZONE": "Bagmati",
+    "ZONE_CODE": "2/5/0524",
+    "Total Household": 66688,
+    "Total Population": 287798,
+    "Deaths": 3424
+  },
+  {
+    "DIST_ID": 24,
+    "DISTRICT": "Kabhrepalanchok",
+    "ZONE": "Bagmati",
+    "ZONE_CODE": "2/5/0524",
+    "Total Household": 80720,
+    "Total Population": 381937,
+    "Deaths": 318
+  },
+  {
+    "DIST_ID": 25,
+    "DISTRICT": "Lalitpur",
+    "ZONE": "Bagmati",
+    "ZONE_CODE": "2/5/0524",
+    "Total Household": 109797,
+    "Total Population": 468132,
+    "Deaths": 182
+  },
+  {
+    "DIST_ID": 26,
+    "DISTRICT": "Bhaktapur",
+    "ZONE": "Bagmati",
+    "ZONE_CODE": "2/5/0524",
+    "Total Household": 68636,
+    "Total Population": 304651,
+    "Deaths": 328
+  },
+  {
+    "DIST_ID": 27,
+    "DISTRICT": "Kathmandu",
+    "ZONE": "Bagmati",
+    "ZONE_CODE": "2/5/0524",
+    "Total Household": 436344,
+    "Total Population": 1744240,
+    "Deaths": 1216
+  },
+  {
+    "DIST_ID": 28,
+    "DISTRICT": "Nuwakot",
+    "ZONE": "Bagmati",
+    "ZONE_CODE": "2/5/0524",
+    "Total Household": 59215,
+    "Total Population": 277471,
+    "Deaths": 1059
+  },
+  {
+    "DIST_ID": 29,
+    "DISTRICT": "Rasuwa",
+    "ZONE": "Bagmati",
+    "ZONE_CODE": "2/5/0524",
+    "Total Household": 9778,
+    "Total Population": 43300,
+    "Deaths": 581
+  },
+  {
+    "DIST_ID": 30,
+    "DISTRICT": "Dhading",
+    "ZONE": "Bagmati",
+    "ZONE_CODE": "2/5/0524",
+    "Total Household": 73851,
+    "Total Population": 336067,
+    "Deaths": 728
+  },
+  {
+    "DIST_ID": 31,
+    "DISTRICT": "Makawanpur",
+    "ZONE": "Narayani",
+    "ZONE_CODE": "2/6/0524",
+    "Total Household": 86127,
+    "Total Population": 420477,
+    "Deaths": 33
+  },
+  {
+    "DIST_ID": 32,
+    "DISTRICT": "Rautahat",
+    "ZONE": "Narayani",
+    "ZONE_CODE": "2/6/0524",
+    "Total Household": 106668,
+    "Total Population": 686722,
+    "Deaths": 3
+  },
+  {
+    "DIST_ID": 33,
+    "DISTRICT": "Bara",
+    "ZONE": "Narayani",
+    "ZONE_CODE": "2/6/0524",
+    "Total Household": 108635,
+    "Total Population": 687708,
+    "Deaths": 5
+  },
+  {
+    "DIST_ID": 34,
+    "DISTRICT": "Parsa",
+    "ZONE": "Narayani",
+    "ZONE_CODE": "2/6/0524",
+    "Total Household": 95536,
+    "Total Population": 601017,
+    "Deaths": 6
+  },
+  {
+    "DIST_ID": 35,
+    "DISTRICT": "Chitawan",
+    "ZONE": "Narayani",
+    "ZONE_CODE": "2/6/0524",
+    "Total Household": 132462,
+    "Total Population": 579984,
+    "Deaths": 9
+  },
+  {
+    "DIST_ID": 36,
+    "DISTRICT": "Gorkha",
+    "ZONE": "Gandaki",
+    "ZONE_CODE": "3/7/0524",
+    "Total Household": 66506,
+    "Total Population": 271061,
+    "Deaths": 440
+  },
+  {
+    "DIST_ID": 37,
+    "DISTRICT": "Lamjung",
+    "ZONE": "Gandaki",
+    "ZONE_CODE": "3/7/0524",
+    "Total Household": 42079,
+    "Total Population": 167724,
+    "Deaths": 5
+  },
+  {
+    "DIST_ID": 41,
+    "DISTRICT": "Manang",
+    "ZONE": "Gandaki",
+    "ZONE_CODE": "3/7/0524",
+    "Total Household": 1400,
+    "Total Population": 6538,
+    "Deaths": 0
+  },
+  {
+    "DIST_ID": 40,
+    "DISTRICT": "Kaski",
+    "ZONE": "Gandaki",
+    "ZONE_CODE": "3/7/0524",
+    "Total Household": 125673,
+    "Total Population": 492098,
+    "Deaths": 2
+  },
+  {
+    "DIST_ID": 38,
+    "DISTRICT": "Tanahu",
+    "ZONE": "Gandaki",
+    "ZONE_CODE": "3/7/0524",
+    "Total Household": 78309,
+    "Total Population": 323288,
+    "Deaths": 0
+  },
+  {
+    "DIST_ID": 39,
+    "DISTRICT": "Syangja",
+    "ZONE": "Gandaki",
+    "ZONE_CODE": "3/7/0524",
+    "Total Household": 68881,
+    "Total Population": 289148,
+    "Deaths": 0
+  },
+  {
+    "DIST_ID": 44,
+    "DISTRICT": "Parbat",
+    "ZONE": "Dhawalagiri",
+    "ZONE_CODE": "3/8/0524",
+    "Total Household": 35719,
+    "Total Population": 146590,
+    "Deaths": 0
+  },
+  {
+    "DIST_ID": 45,
+    "DISTRICT": "Baglung",
+    "ZONE": "Dhawalagiri",
+    "ZONE_CODE": "3/8/0524",
+    "Total Household": 61522,
+    "Total Population": 268613,
+    "Deaths": 0
+  },
+  {
+    "DIST_ID": 43,
+    "DISTRICT": "Myagdi",
+    "ZONE": "Dhawalagiri",
+    "ZONE_CODE": "3/8/0524",
+    "Total Household": 27762,
+    "Total Population": 113614,
+    "Deaths": 0
+  },
+  {
+    "DIST_ID": 42,
+    "DISTRICT": "Mustang",
+    "ZONE": "Dhawalagiri",
+    "ZONE_CODE": "3/8/0524",
+    "Total Household": 3354,
+    "Total Population": 13452,
+    "Deaths": 0
+  },
+  {
+    "DIST_ID": 47,
+    "DISTRICT": "Palpa",
+    "ZONE": "Lumbini",
+    "ZONE_CODE": "3/9/0524",
+    "Total Household": 128793,
+    "Total Population": 643508,
+    "Deaths": 1
+  },
+  {
+    "DIST_ID": 48,
+    "DISTRICT": "Nawalparasi",
+    "ZONE": "Lumbini",
+    "ZONE_CODE": "3/9/0524",
+    "Total Household": 128793,
+    "Total Population": 643508,
+    "Deaths": 1
+  },
+  {
+    "DIST_ID": 49,
+    "DISTRICT": "Rupandehi",
+    "ZONE": "Lumbini",
+    "ZONE_CODE": "3/9/0524",
+    "Total Household": 163916,
+    "Total Population": 880196,
+    "Deaths": 0
+  },
+  {
+    "DIST_ID": 50,
+    "DISTRICT": "Kapilbastu",
+    "ZONE": "Lumbini",
+    "ZONE_CODE": "3/9/0524",
+    "Total Household": 91321,
+    "Total Population": 571936,
+    "Deaths": 0
+  },
+  {
+    "DIST_ID": 51,
+    "DISTRICT": "Arghakhanchi",
+    "ZONE": "Lumbini",
+    "ZONE_CODE": "3/9/0524",
+    "Total Household": 46835,
+    "Total Population": 197632,
+    "Deaths": 0
+  },
+  {
+    "DIST_ID": 46,
+    "DISTRICT": "Gulmi",
+    "ZONE": "Lumbini",
+    "ZONE_CODE": "3/9/0524",
+    "Total Household": 64921,
+    "Total Population": 280160,
+    "Deaths": 1
+  },
+  {
+    "DIST_ID": 54,
+    "DISTRICT": "Rukum",
+    "ZONE": "Rapti",
+    "ZONE_CODE": "4/10/0524",
+    "Total Household": 19303,
+    "Total Population": 108921,
+    "Deaths": 1
+  },
+  {
+    "DIST_ID": 55,
+    "DISTRICT": "Salyan",
+    "ZONE": "Rapti",
+    "ZONE_CODE": "4/10/0524",
+    "Total Household": 47730,
+    "Total Population": 228102,
+    "Deaths": 0
+  },
+  {
+    "DIST_ID": 53,
+    "DISTRICT": "Rolpa",
+    "ZONE": "Rapti",
+    "ZONE_CODE": "4/10/0524",
+    "Total Household": 23013,
+    "Total Population": 136948,
+    "Deaths": 1
+  },
+  {
+    "DIST_ID": 52,
+    "DISTRICT": "Pyuthan",
+    "ZONE": "Rapti",
+    "ZONE_CODE": "4/10/0524",
+    "Total Household": 7488,
+    "Total Population": 36700,
+    "Deaths": 0
+  },
+  {
+    "DIST_ID": 56,
+    "DISTRICT": "Dang",
+    "ZONE": "Rapti",
+    "ZONE_CODE": "4/10/0524",
+    "Total Household": 9619,
+    "Total Population": 55286,
+    "Deaths": 0
+  },
+  {
+    "DIST_ID": 57,
+    "DISTRICT": "Banke",
+    "ZONE": "Bheri",
+    "ZONE_CODE": "4/11/0524",
+    "Total Household": 94773,
+    "Total Population": 491313,
+    "Deaths": 0
+  },
+  {
+    "DIST_ID": 58,
+    "DISTRICT": "Bardiya",
+    "ZONE": "Bheri",
+    "ZONE_CODE": "4/11/0524",
+    "Total Household": 73176,
+    "Total Population": 426576,
+    "Deaths": 0
+  },
+  {
+    "DIST_ID": 59,
+    "DISTRICT": "Surkhet",
+    "ZONE": "Bheri",
+    "ZONE_CODE": "4/11/0524",
+    "Total Household": 72863,
+    "Total Population": 350804,
+    "Deaths": 0
+  },
+  {
+    "DIST_ID": 61,
+    "DISTRICT": "Jajarkot",
+    "ZONE": "Bheri",
+    "ZONE_CODE": "4/11/0524",
+    "Total Household": 30472,
+    "Total Population": 171304,
+    "Deaths": 0
+  },
+  {
+    "DIST_ID": 60,
+    "DISTRICT": "Dailekh",
+    "ZONE": "Bheri",
+    "ZONE_CODE": "4/11/0524",
+    "Total Household": 48919,
+    "Total Population": 261770,
+    "Deaths": 0
+  },
+  {
+    "DIST_ID": 62,
+    "DISTRICT": "Dolpa",
+    "ZONE": "Karnali",
+    "ZONE_CODE": "4/12/0524",
+    "Total Household": 41856,
+    "Total Population": 208567,
+    "Deaths": 0
+  },
+  {
+    "DIST_ID": 63,
+    "DISTRICT": "Jumla",
+    "ZONE": "Karnali",
+    "ZONE_CODE": "4/12/0524",
+    "Total Household": 9479,
+    "Total Population": 50858,
+    "Deaths": 0
+  },
+  {
+    "DIST_ID": 64,
+    "DISTRICT": "Kalikot",
+    "ZONE": "Karnali",
+    "ZONE_CODE": "4/12/0524",
+    "Total Household": 116415,
+    "Total Population": 552583,
+    "Deaths": 0
+  },
+  {
+    "DIST_ID": 65,
+    "DISTRICT": "Mugu",
+    "ZONE": "Karnali",
+    "ZONE_CODE": "4/12/0524",
+    "Total Household": 43757,
+    "Total Population": 224506,
+    "Deaths": 0
+  },
+  {
+    "DIST_ID": 66,
+    "DISTRICT": "Humla",
+    "ZONE": "Karnali",
+    "ZONE_CODE": "4/12/0524",
+    "Total Household": 46558,
+    "Total Population": 242444,
+    "Deaths": 0
+  },
+  {
+    "DIST_ID": 68,
+    "DISTRICT": "Bajhang",
+    "ZONE": "Seti",
+    "ZONE_CODE": "5/13/0524",
+    "Total Household": 33786,
+    "Total Population": 195159,
+    "Deaths": 0
+  },
+  {
+    "DIST_ID": 67,
+    "DISTRICT": "Bajura",
+    "ZONE": "Seti",
+    "ZONE_CODE": "5/13/0524",
+    "Total Household": 24908,
+    "Total Population": 134912,
+    "Deaths": 0
+  },
+  {
+    "DIST_ID": 69,
+    "DISTRICT": "Achham",
+    "ZONE": "Seti",
+    "ZONE_CODE": "5/13/0524",
+    "Total Household": 48351,
+    "Total Population": 257477,
+    "Deaths": 0
+  },
+  {
+    "DIST_ID": 70,
+    "DISTRICT": "Doti",
+    "ZONE": "Seti",
+    "ZONE_CODE": "5/13/0524",
+    "Total Household": 41440,
+    "Total Population": 211746,
+    "Deaths": 0
+  },
+  {
+    "DIST_ID": 71,
+    "DISTRICT": "Kailali",
+    "ZONE": "Seti",
+    "ZONE_CODE": "5/13/0524",
+    "Total Household": 142480,
+    "Total Population": 775709,
+    "Deaths": 0
+  },
+  {
+    "DIST_ID": 72,
+    "DISTRICT": "Kanchanpur",
+    "ZONE": "Mahakali",
+    "ZONE_CODE": "5/14/0524",
+    "Total Household": 82152,
+    "Total Population": 451248,
+    "Deaths": 0
+  },
+  {
+    "DIST_ID": 73,
+    "DISTRICT": "Dadeldhura",
+    "ZONE": "Mahakali",
+    "ZONE_CODE": "5/14/0524",
+    "Total Household": 27045,
+    "Total Population": 142094,
+    "Deaths": 0
+  },
+  {
+    "DIST_ID": 74,
+    "DISTRICT": "Baitadi",
+    "ZONE": "Mahakali",
+    "ZONE_CODE": "5/14/0524",
+    "Total Household": 45191,
+    "Total Population": 250898,
+    "Deaths": 0
+  },
+  {
+    "DIST_ID": 75,
+    "DISTRICT": "Darchula",
+    "ZONE": "Mahakali",
+    "ZONE_CODE": "5/14/0524",
+    "Total Household": 24618,
+    "Total Population": 133274,
+    "Deaths": 0
+  }
+]
